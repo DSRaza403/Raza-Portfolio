@@ -118,6 +118,6 @@ Dean’s List 2015–2016
 ## 📫 Contact
 
 📧 Email: [cs.m.raza@gmail.com](mailto:cs.m.raza@gmail.com)  
-🔗 LinkedIn: *([Mohammed Raza](https://www.linkedin.com/in/mohammed-raza-chidimar-8016831a9/))*  
-🌐 Portfolio/GitHub: *([Mohammed Raza's Github](https://github.com/DSRaza403))*
+🔗 LinkedIn: *[Mohammed Raza](https://www.linkedin.com/in/mohammed-raza-chidimar-8016831a9/)*  
+🌐 Portfolio/GitHub: *[Mohammed Raza's Github](https://github.com/DSRaza403)*
 
