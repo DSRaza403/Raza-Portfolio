@@ -5,7 +5,7 @@
 
 # Mohammed Raza Chidimar
 
-![Profile Image](path/to/your-image.jpg) <!-- Replace with the actual path to your image -->
+![Profile Image]([path/to/your-image.jpg](https://github.com/DSRaza403/MohammedRaza/blob/main/WhatsApp%20Image%202025-05-08%20at%2005.07.09_98df57a6.jpg)) <!-- Replace with the actual path to your image -->
 
 📍 Johor Bahru, Johor  
 📧 cs.m.raza@gmail.com  
