@@ -7,7 +7,7 @@ The objective of Task 2 is to build a **Retrieval Augmented Generation (RAG)** s
 
 ## **Task Breakdown**
 
-The task can be divided into the following main steps:
+The task is divided into the following main steps:
 
 1. **Data Preparation**: Clean and preprocess the dataset (Abirate/english_quotes).
 2. **Model Fine-Tuning**: Fine-tune a sentence embedding model on the dataset.
