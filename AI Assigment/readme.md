@@ -17,6 +17,7 @@ This repository contains the implementation of two tasks for an AI assignment pr
     ├── rag_pipeline.ipynb          # Jupyter notebook for Task 2 RAG pipeline
     ├── rag_evaluation.ipynb        # Jupyter notebook for Task 2 RAG evaluation
     ├── streamlit_app.ipynb         # Streamlit app for Task 2
+    ├── Evaluation Results Discussion.md         # Evaluation Results Short Discussion
     ├── data_prep_model_finetuning.ipynb # Jupyter notebook for Task 2 Data prep & model fine-tuning
     └── README.md                   # Task 2 documentation
 ```
