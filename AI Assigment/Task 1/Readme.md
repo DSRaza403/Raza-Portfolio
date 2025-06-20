@@ -6,6 +6,8 @@
 
 The objective of Task 1 is to develop a machine learning pipeline that classifies customer support tickets based on their issue type and urgency level, and extracts key entities such as product names, dates, and complaint keywords. The provided dataset includes anonymized customer support ticket data, and the goal is to clean, preprocess, and build machine learning models to predict issue type and urgency level, as well as extract key entities from the ticket text.
 
+[Watch Task 1 Loom Video](https://www.loom.com/share/bb6b132b30844658a073d25fd325c69e?sid=618dbbd0-8fdb-4e73-9376-de1e103f59f7)
+
 ## **Task Breakdown**
 
 The task is divided into the following steps:
