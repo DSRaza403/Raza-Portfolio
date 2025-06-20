@@ -5,6 +5,8 @@
 
 The objective of Task 2 is to build a **Retrieval Augmented Generation (RAG)** system for semantic quote retrieval. The goal is to create a model capable of retrieving relevant quotes based on natural language queries. This task involves fine-tuning a model, implementing a RAG pipeline, evaluating the system's performance, and deploying an interactive **Streamlit** app.
 
+[Watch Task 2 Loom Video](https://www.loom.com/share/ba711e73cdf44a1cbc22e939e287a921?sid=52bfdcde-d873-43af-9adf-86f3f0227445)
+
 ## **Task Breakdown**
 
 The task is divided into the following main steps:
