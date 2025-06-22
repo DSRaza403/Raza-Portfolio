@@ -1,5 +1,5 @@
 
-# **AI Assignment: Internship (Vijayi WFH Technologies Pvt Ltd)**
+# **AI Assignment: Internship**
 
 This repository contains the implementation of two tasks for an AI assignment provided by **Vijayi WFH Technologies Pvt Ltd**. The assignment consists of two main parts:
 
