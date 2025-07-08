@@ -1,15 +1,18 @@
 <p align="center">
   <img src="https://github.com/DSRaza403/MohammedRaza/blob/main/profile%20pic.jpg" alt="Your Profile Picture" width=250 height=300>
-
 </p>
 
 # Mohammed Raza Chidimar
 
-
-
 📍 Johor Bahru, Johor  
 📧 cs.m.raza@gmail.com  
 📞 +60 162174003  
+
+---
+
+## 🧠 Summary
+
+Aspiring AI/ML Engineer passionate about building real-world solutions using NLP, semantic search, and intelligent automation. Experienced in end-to-end machine learning development — from data preprocessing and model training to API deployment and user interface integration using tools like Streamlit and Gradio. Constantly exploring large language models, RAG pipelines, and scalable AI applications in real-time business scenarios.
 
 ---
 
@@ -52,6 +55,16 @@ Dean’s List 2015–2016
 
 ## 📊 Projects
 
+### **RAG-Based Semantic Quote Retrieval and QA System**  
+📅 06/2025  
+- Developed a semantic retrieval system using RAG and sentence-transformer embeddings with 92% accuracy.  
+- Deployed a real-time QA interface with Streamlit, reducing manual search effort by 40%.
+
+### **ML Pipeline for Customer Support Ticket Classification**  
+📅 05/2025  
+- Achieved 87.6% F1-score in classifying support issues and urgency.  
+- Integrated with a Gradio demo app and added entity extraction for improved triaging.
+
 ### **Analyzing Global Greenhouse Gas Emissions**  
 📅 12/2024  
 - Analyzed emissions data from 1970Q1 to 2023Q4 using Jupyter Notebook.  
@@ -80,10 +93,11 @@ Dean’s List 2015–2016
 
 ## 🛠️ Technical Skills
 
-- **Languages & Tools:** Python, SQL, Java, PHP, HTML/CSS, Advance Excel  
+- **Languages & Tools:** Python, SQL, Java, PHP, HTML/CSS, Advanced Excel  
+- **ML & NLP:** Scikit-learn, HuggingFace, Transformers, RAG, FAISS, Sentence Transformers  
 - **Visualization & BI:** Power BI, MS Excel, MS PowerPoint  
-- **Cloud & APIs:** AWS Cloud Foundations, Python APIs  
-- **Others:** Project Management, Meta Ads (Facebook/Instagram)  
+- **Cloud & APIs:** AWS Cloud Foundations, Python APIs, Streamlit, Gradio  
+- **Other:** GitHub, Meta Ads, Jupyter, Project Management
 
 ---
 
@@ -118,6 +132,6 @@ Dean’s List 2015–2016
 ## 📫 Contact
 
 📧 Email: [cs.m.raza@gmail.com](mailto:cs.m.raza@gmail.com)  
-🔗 LinkedIn: *[Mohammed Raza](https://www.linkedin.com/in/mohammed-raza-chidimar-8016831a9/)*  
-🌐 Portfolio/GitHub: *[Mohammed Raza's Github](https://github.com/DSRaza403)*
+🔗 LinkedIn: [Mohammed Raza](https://www.linkedin.com/in/mohammed-raza-chidimar-8016831a9/)  
+🌐 Portfolio/GitHub: [Mohammed Raza's GitHub](https://github.com/DSRaza403)
 
