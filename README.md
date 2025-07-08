@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DSRaza403/MohammedRaza/blob/main/WhatsApp%20Image%202025-05-08%20at%2005.07.09_98df57a6.jpg" alt="Your Profile Picture" width=250 height=300>
+  <img src="https://github.com/DSRaza403/MohammedRaza/blob/main/profile%20pic.jpg" alt="Your Profile Picture" width=250 height=300>
 
 </p>
 
